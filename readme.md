@@ -19,14 +19,6 @@ Este repositório contém os projetos desenvolvidos para a obtenção do certifi
 - **Desafio 5**: Previsor do Nível do Mar  
   Um projeto que prevê a mudança do nível do mar até 2050, utilizando dados históricos para gerar gráficos de dispersão e linhas de tendência.
 
-## Como Executar os Projetos 🚀
-
-Para executar os projetos, você precisará ter o Python e as bibliotecas necessárias instaladas. Certifique-se de instalar as dependências especificadas em cada projeto.
-
-## Contribuições 🤝
-
-Se você tiver sugestões ou melhorias, fique à vontade para contribuir com este repositório!
-
 ## Licença 📄
 
 Este projeto está licenciado sob a [MIT License](LICENSE).

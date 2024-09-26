@@ -1,7 +1,7 @@
 import pandas as pd
 
 def analisador_dados_demograficos():
-    df = pd.read_csv("xxx")
+    df = pd.read_csv("adult.data.csv")
 
     # Quantas pessoas de cada raça estão representadas neste conjunto de dados? (coluna raça)
     contagem_racas = df['race'].value_counts()
